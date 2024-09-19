@@ -1,0 +1,7 @@
+kramdown:
+  input: GFM
+github: [metadata]
+encoding: UTF-8
+webrick:
+  headers:
+    Access-Control-Allow-Origin: "*"
